@@ -15,11 +15,11 @@ WebGL incl. reference resolution 960x600
 
 ### Visuals: 
 <div>
-<img src = "./Sceens/screen.png" width = "500">
+<img src = "./Sceens/screen.PNG" width = "500">
 </div>
 
 ### Third party material: 
-<a href="./MyGame/picture/Basketball.png">Basketball PNG</a>
+<a href="https://upload.wikimedia.org/wikipedia/commons/7/7a/Basketball.png">Basketball PNG</a>
 
 ### Limitations: 
 WebGL
